@@ -1,0 +1,32 @@
+Command exited with code 0.
+
+Command output:
+
+FullName                                                             Mode  
+--------                                                             ----  
+C:\Users\brazi\.gemini\config\projects                               d-----
+C:\Users\brazi\.gemini\config\.migrated                              -a----
+C:\Users\brazi\.gemini\config\mcp_config.json                        -a----
+C:\Users\brazi\.gemini\antigravity-cli\annotations                   d-----
+C:\Users\brazi\.gemini\antigravity-cli\bin                           d-----
+C:\Users\brazi\.gemini\antigravity-cli\brain                         d-----
+C:\Users\brazi\.gemini\antigravity-cli\builtin                       d-----
+C:\Users\brazi\.gemini\antigravity-cli\cache                         d-----
+C:\Users\brazi\.gemini\antigravity-cli\conversations                 d-----
+C:\Users\brazi\.gemini\antigravity-cli\crashes                       d-----
+C:\Users\brazi\.gemini\antigravity-cli\implicit                      d-----
+C:\Users\brazi\.gemini\antigravity-cli\log                           d-----
+C:\Users\brazi\.gemini\antigravity-cli\presence                      d-----
+C:\Users\brazi\.gemini\antigravity-cli\updater                       d-----
+C:\Users\brazi\.gemini\antigravity-cli\cli.log                       -a----
+C:\Users\brazi\.gemini\antigravity-cli\conversation_summaries.db     -a----
+C:\Users\brazi\.gemini\antigravity-cli\conversation_summaries.db-shm -a----
+C:\Users\brazi\.gemini\antigravity-cli\conversation_summaries.db-wal -a----
+C:\Users\brazi\.gemini\antigravity-cli\history.jsonl                 -a----
+C:\Users\brazi\.gemini\antigravity-cli\installation_id               -a----
+C:\Users\brazi\.gemini\antigravity-cli\jetbox_summaries_proto.pb     -a----
+C:\Users\brazi\.gemini\antigravity-cli\jetski_state.pbtxt            -a----
+C:\Users\brazi\.gemini\antigravity-cli\last_check.timestamp          -a----
+C:\Users\brazi\.gemini\antigravity-cli\settings.json                 -a----
+
+

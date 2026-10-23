@@ -1,0 +1,1 @@
+Made 1 replacement in C:\Users\brazi\.gemini\sync.ps1 starting at line 1 (+3/-0 lines).

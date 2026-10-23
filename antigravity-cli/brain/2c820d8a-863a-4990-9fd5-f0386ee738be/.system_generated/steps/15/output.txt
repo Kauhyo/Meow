@@ -1,0 +1,10 @@
+Command exited with code 0.
+
+Command output:
+
+Name            Mode  
+----            ----  
+antigravity-cli d-----
+config          d-----
+
+

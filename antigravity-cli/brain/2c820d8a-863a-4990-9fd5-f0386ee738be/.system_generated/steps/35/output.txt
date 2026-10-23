@@ -1,0 +1,11 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\brazi\AppData\Local\Microsoft\WindowsApps\winget.exe
+Information�: impossible de trouver des fichiers pour le(s) mod�le(s) sp�cifi�(s).
+
+Name                               Source                                                
+----                               ------                                                
+UevTemplateConfigItemGenerator.exe C:\windows\system32\UevTemplateConfigItemGenerator.exe
+
+

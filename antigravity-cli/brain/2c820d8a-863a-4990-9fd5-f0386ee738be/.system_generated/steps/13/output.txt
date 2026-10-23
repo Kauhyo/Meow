@@ -1,0 +1,2 @@
+A1: Tout synchroniser (mémoire globale + historique des conversations et artéfacts)
+A2: (Recommended) Directement dans C:\Users\brazi\.gemini\config (détecté automatiquement partout)

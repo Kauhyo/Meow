@@ -1,0 +1,34 @@
+Command exited with code 0.
+
+Command output:
+?? .gitignore
+?? README.md
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/chunks/transcript/00000000.jsonl
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/chunks/transcript_full/00000000.jsonl
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/transcript.jsonl
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/transcript_full.jsonl
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/messages/b995cf3b-f4be-4845-852b-40c5747dc2a3.json
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/messages/read.json
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/13/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/15/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/17/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/22/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/24/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/26/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/28/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/29/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/30/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/31/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/32/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/34/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/35/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/37/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/41/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/43/output.txt
+?? antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/47/output.txt
+?? config/GEMINI.md
+?? config/mcp_config.json
+?? config/rules/.gitkeep
+?? config/skills/.gitkeep
+?? config/skills/sync-memory/SKILL.md
+?? sync.ps1

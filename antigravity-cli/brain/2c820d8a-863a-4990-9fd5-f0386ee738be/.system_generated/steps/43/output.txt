@@ -1,0 +1,9 @@
+Command exited with code 0.
+
+Command output:
+
+FullName                                                                         
+--------                                                                         
+C:\Users\brazi\AppData\Local\Temp\WinGet\Git.Git.2.55.0.5\Git-2.55.0.5-64-bit.exe
+
+

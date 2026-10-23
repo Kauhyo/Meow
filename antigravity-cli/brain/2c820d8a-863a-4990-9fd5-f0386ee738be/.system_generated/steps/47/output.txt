@@ -1,0 +1,10 @@
+Command exited with code 0.
+
+Command output:
+git version 2.55.0.windows.5
+Initialized empty Git repository in C:/Users/brazi/.gemini/.git/
+?? .gitignore
+?? README.md
+?? antigravity-cli/
+?? config/
+?? sync.ps1
