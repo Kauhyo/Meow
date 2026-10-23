@@ -1,0 +1,24 @@
+Command exited with code 0.
+
+Command output:
+1. RǸcupǸration des changements distants (git pull)...
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2. Ajout des nouveaux souvenirs, r�gles et conversations...
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/chunks/transcript/00000000.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/chunks/transcript_full/00000000.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/transcript.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/transcript_full.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/58/output.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/62/output.txt', LF will be replaced by CRLF the next time Git touches it
+[main 8569fa6] Sync mÃ©moire Antigravity (2026-10-23 17:05)
+ 9 files changed, 91 insertions(+), 1 deletion(-)
+ create mode 100644 antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/messages/f28e400f-6f85-4919-9fac-64f30c83d42e.json
+ create mode 100644 antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/58/output.txt
+ create mode 100644 antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/60/output.txt
+ create mode 100644 antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/62/output.txt
+3. Envoi vers GitHub (git push)...
+To https://github.com/Kauhyo/Meow.git
+   ecbb813..8569fa6  main -> main
+branch 'main' set up to track 'origin/main'.
+Synchronisation terminǸe avec succ�s !
