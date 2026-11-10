@@ -1,0 +1,10 @@
+Command exited with code 0.
+
+Command output:
+
+Name       Length
+----       ------
+NVDATA.DAT 131072
+SHOW.DAT       17
+
+

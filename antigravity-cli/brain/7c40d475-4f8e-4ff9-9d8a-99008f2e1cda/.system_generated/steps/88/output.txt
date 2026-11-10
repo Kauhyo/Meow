@@ -1,0 +1,15 @@
+Command exited with code 0.
+
+Command output:
+Section .text   : RVA=0x001000 VSize=0x253430 Raw=0x000400 RSize=0x253600
+Section .data   : RVA=0x255000 VSize=0x014A40 Raw=0x253A00 RSize=0x014C00
+Section .rdata  : RVA=0x26A000 VSize=0xE7C40C Raw=0x268600 RSize=0xE7C600
+Section .qtversi: RVA=0x10E7000 VSize=0x000010 Raw=0x10E4C00 RSize=0x000200
+Section .pdata  : RVA=0x10E8000 VSize=0x01EF54 Raw=0x10E4E00 RSize=0x01F000
+Section .xdata  : RVA=0x1107000 VSize=0x029E34 Raw=0x1103E00 RSize=0x02A000
+Section .bss    : RVA=0x1131000 VSize=0x0028BC Raw=0x000000 RSize=0x000000
+Section .idata  : RVA=0x1134000 VSize=0x00BAC4 Raw=0x112DE00 RSize=0x00BC00
+Section .CRT    : RVA=0x1140000 VSize=0x000060 Raw=0x1139A00 RSize=0x000200
+Section .tls    : RVA=0x1141000 VSize=0x000010 Raw=0x1139C00 RSize=0x000200
+Section .rsrc   : RVA=0x1142000 VSize=0x01A8F0 Raw=0x1139E00 RSize=0x01AA00
+Section .reloc  : RVA=0x115D000 VSize=0x00A574 Raw=0x1154800 RSize=0x00A600

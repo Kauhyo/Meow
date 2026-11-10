@@ -1,0 +1,6 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\brazi\AppData\Local\Microsoft\WindowsApps\python.exe
+Information : impossible de trouver "ffmpeg".
+Information : impossible de trouver "magick".

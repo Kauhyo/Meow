@@ -1,0 +1,21 @@
+Command exited with code 0.
+
+Command output:
+Total text height: 2728,688 px, Total frames: 4770 (159 s)
+Encoded 0s / 159s
+Encoded 10s / 159s
+Encoded 20s / 159s
+Encoded 30s / 159s
+Encoded 40s / 159s
+Encoded 50s / 159s
+Encoded 60s / 159s
+Encoded 70s / 159s
+Encoded 80s / 159s
+Encoded 90s / 159s
+Encoded 100s / 159s
+Encoded 110s / 159s
+Encoded 120s / 159s
+Encoded 130s / 159s
+Encoded 140s / 159s
+Encoded 150s / 159s
+Done! Saved to C:\Users\brazi\Desktop\Plaidoirie -20261110T093755Z-1-001\Prompteur_Plaidoyer.mp4

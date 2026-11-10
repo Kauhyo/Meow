@@ -1,0 +1,1 @@
+Made 1 replacement in C:\Users\brazi\.gemini\antigravity-cli\brain\71a6727f-24ec-41d6-9612-1cde0b8f78ae\scratch\GenerateTeleprompter.cs starting at line 297 (+2/-2 lines).

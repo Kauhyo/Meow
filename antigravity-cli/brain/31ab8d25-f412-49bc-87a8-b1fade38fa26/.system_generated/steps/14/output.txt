@@ -1,0 +1,14 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\Public\Documents\OnlineFix\2868840 (1)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves (1)
+C:\Users\Public\Documents\OnlineFix\2868840\Stats (1)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1 (1)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile.save (52)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1\saves (1)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1\saves\history (1)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1\saves\current_run.save (78269)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1\saves\prefs.save (365)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1\saves\progress.save (26393)
+C:\Users\Public\Documents\OnlineFix\2868840\Saves\profile1\saves\history\1792966798.run (51525)

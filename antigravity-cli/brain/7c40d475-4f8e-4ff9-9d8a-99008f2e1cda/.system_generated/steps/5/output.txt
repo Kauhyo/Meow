@@ -1,0 +1,23 @@
+Command exited with code 0.
+
+Command output:
+
+Name       
+----       
+.config    
+.gemini    
+Contacts   
+Desktop    
+Documents  
+Downloads  
+Favorites  
+Links      
+Music      
+OneDrive   
+Pictures   
+REW        
+Saved Games
+Searches   
+Videos     
+
+

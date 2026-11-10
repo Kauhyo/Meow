@@ -1,0 +1,15 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Hive: HKEY_CURRENT_USER\Software\Allen & Heath
+
+
+Name                           Property                                                                                
+----                           --------                                                                                
+SQ MixPad 1.6.1                                                                                                        
+SQ-MixPad V1.6.1 - Rev. 92418  EULAAccepted   : true                                                                   
+                               WindowGeometry : {64, 0, 66, 0...}                                                      
+
+

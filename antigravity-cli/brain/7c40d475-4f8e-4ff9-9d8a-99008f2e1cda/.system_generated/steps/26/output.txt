@@ -1,0 +1,42 @@
+Command exited with code 0.
+
+Command output:
+
+
+EULAAccepted : true
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 
+               92418
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Allen & Heath
+PSChildName  : SQ-MixPad V1.6.1 - Rev. 92418
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\1.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\10.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\11.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\12.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\13.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\14.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\15.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\16.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\17.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\18.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\19.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\2.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\20.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\3.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\4.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\5.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\6.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\7.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\8.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\9.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\Connection_Help.html
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\fineAdjust.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\offlineMenuTree.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\onlineMenuTree.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\overview.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\overview_noLabel.png
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\workingDirectory.png

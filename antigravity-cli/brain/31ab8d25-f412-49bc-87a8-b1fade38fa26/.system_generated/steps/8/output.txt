@@ -1,0 +1,7 @@
+Command exited with code 0.
+
+Command output:
+Shortcut Target: C:\jeux\Slay-the-Spire-2-SteamRIP.com\Slay the Spire 2\SlayTheSpire2.exe
+Shortcut WorkingDir: C:\jeux\Slay-the-Spire-2-SteamRIP.com\Slay the Spire 2
+=== C:\jeux contents ===
+C:\jeux\Slay-the-Spire-2-SteamRIP.com

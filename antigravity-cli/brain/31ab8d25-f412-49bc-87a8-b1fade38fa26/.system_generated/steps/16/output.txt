@@ -1,0 +1,52 @@
+Command exited with code 0.
+
+Command output:
+1. Copying Game Files...
+  0%    0%  
+
+-------------------------------------------------------------------------------
+
+               Total     Copi�    Ignor�Discordance     �CHEC    Extras
+     R�p�:         3         3         0         0         0         0
+Fichiers�:       226       226         0         0         0         0
+  Octets�:   2.807 g   2.807 g         0         0         0         0
+   Heures:   0:00:07   0:00:01                       0:00:00   0:00:00
+
+
+   D�bit�:           1�835�095�891 Octets/sec.
+   D�bit�:              105005,031 M�ga-octets/min.
+   Fin : mercredi 28 octobre 2026 18:35:35
+
+2. Copying AppData Roaming Saves (SlayTheSpire2)...
+
+
+-------------------------------------------------------------------------------
+
+               Total     Copi�    Ignor�Discordance     �CHEC    Extras
+     R�p�:       161       161         0         0         0         0
+Fichiers�:       174       174         0         0         0         0
+  Octets�:   10.01 m   10.01 m         0         0         0         0
+   Heures:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   D�bit�:           134�602�692 Octets/sec.
+   D�bit�:              7702,028 M�ga-octets/min.
+   Fin : mercredi 28 octobre 2026 18:35:35
+
+3. Copying OnlineFix Saves (2868840)...
+
+
+-------------------------------------------------------------------------------
+
+               Total     Copi�    Ignor�Discordance     �CHEC    Extras
+     R�p�:         6         6         0         0         0         0
+Fichiers�:         5         5         0         0         0         0
+  Octets�:   152.9 k   152.9 k         0         0         0         0
+   Heures:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   D�bit�:           39�151�000 Octets/sec.
+   D�bit�:             2240,238 M�ga-octets/min.
+   Fin : mercredi 28 octobre 2026 18:35:35
+
+Done!

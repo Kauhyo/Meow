@@ -1,0 +1,675 @@
+Command exited with code 1.
+
+Command output:
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 
+Erreur lors de la mise en forme d'une cha�ne : L'index (de base z�ro) doit �tre sup�rieur ou �gal � z�ro et inf�rieur 
+� la taille de la liste des arguments..
+Au caract�re Ligne:3 : 5
++     Write-Host ("0x{0:X6} (RVA 0x{1:X6}): {2}" -f $p, $p + 0xC00, [Bi ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (0x{0:X6} (RVA 0x{1:X6}): {2}:String) [], RuntimeException
+    + FullyQualifiedErrorId : FormatError
+ 

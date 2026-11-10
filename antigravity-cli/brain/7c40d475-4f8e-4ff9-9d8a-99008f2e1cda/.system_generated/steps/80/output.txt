@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+SQ5.DAT at 2837251 : compLen=187 uncompLen=0 zlibHeader=0x78DA
+Decompressed 0 bytes of SQ5.DAT!
+000000 (0x0000):   
+000016 (0x0010):   
+000032 (0x0020):   
+000048 (0x0030):   
+000064 (0x0040):   
+000080 (0x0050):   
+000096 (0x0060):   
+000112 (0x0070):   

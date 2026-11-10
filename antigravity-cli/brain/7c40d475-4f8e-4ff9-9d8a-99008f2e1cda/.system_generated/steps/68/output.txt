@@ -1,0 +1,867 @@
+Command exited with code 0.
+
+Command output:
+E*, UBYTE, UWORD)
+CPR_TYPE_MIX_SENDS Index too large (%d)
+Unexpected eCPRType:%u
+?
+??
+??
+??
+??
+??
+??
+??
+??
+??
+??
+??
+??
+???
+??+
+??
+??
+??
+cNVData::EntrypointMessage - PARAM_BASE_INIT
+void cNVData::EntrypointMessage(cCMNetMessage&)
+Tab %lu
+?
+???
+??
+???
+?? 
+???!??? ??\!???
+??L ???#???#??p"???"??8#??
+#Stereo Tap Vocal
+?
+J
+?y????`????b?
+?
+?p?p?
+?
+Hall 480
+Os???????2???????
+???
+X??
+X
+?,??????
+?Y
+???P{?z
+EMT 250
+?b??z?
+?C?0?????
+???%?
+X??
+X??*??????
+\X0?d??}?z
+ADT Classic
+?
+?
+?y?
+???
+?U???
+?
+?
+basic_string::_M_construct null not valid
+CalcSceneCRC: pBuf is nullptr
+static u32 cScene::CalcSceneCRC(const UBYTE*)
+..\SQu\SQApps\Common\CMNet2\Core\Scene.cpp
+cScene::CheckSentinel Sentinel%02d @%08X invalid  - Expected:%08X Found:%08X addr:%p
+static bool cScene::TestSentinel(UBYTE, const UBYTE*, ULONG)
+cScene::%s Bad Checksum Expected:0x%08X Found:%08X
+static bool cScene::TestCheckSum(const UBYTE*)
+TestCheckSum
+Scene contains invalid sentinel
+Scene contains invalid checksum: 0x
+Incompatible scene version:
+.
+%s Msg:%s
+void cScene::DeserialiseSceneAndCatchExceptions(const UBYTE*, bool)
+DeserialiseSceneAndCatchExceptions
+?[???[???[???[??
+\??
+\?? \??0\??@\??p\???\???\???\??
+]??
+]??(]??8]??H]??X]???]??H???H???????Z??? ??????? ???????????`???@???p???????????U???P???????
+???
+??? ???0???@???P???????????????
+%1weeks 
+%1days 
+%1hours 
+%1min 
+%1sec 
+%1ms
+%1ms 
+%1us 
+%1ns
+End called before start
+void cHeavyProfile::cHeavyProfileEntry::End(long int)
+..\Common\Qt\HeavyProfile.cpp
+ActionTickWorker
+2ConnectionThreadDisconnected()
+2FinishedAttemptingConnection()
+basic_string::_M_construct null not valid
+basic_string::append
+ Disconnected (AHNet)
+virtual cClientConnectionThreadWorker::~cClientConnectionThreadWorker()
+..\CMNet2\QT\ClientConnectionThreadWorker.cpp
+Connection made to 
+ (AHNet)
+void cClientConnectionThreadWorker::TCPSocketConnected()
+2UDPHandshakeReceived(quint16)
+1RemoteUDPPortReceived(quint16)
+TCPSocketError %s
+void cClientConnectionThreadWorker::TCPSocketError(QAbstractSocket::SocketError)
+TCPSocketError TCP Socket could not connect with error: %s
+TCPSocketError emiting CallDisconnectedSignal()
+2connected()
+1TCPSocketConnected()
+2errorOccurred(QAbstractSocket::SocketError)
+1TCPSocketError(QAbstractSocket::SocketError)
+2Send()
+1Transmit()
+basic_string::_M_construct null not valid
+2CallDisconnectedSignal()
+1CallDisconnectedSlot()
+2TCPConnectionDisconnected()
+2readyRead()
+1UDPRead()
+%1
+2ReceivedMessageSignal()
+1ReceivedMessageSlot()
+2NewUDPConnectionSignal()
+1NewUDPConnectionSlot()
+2ConnectionClosedSignal()
+1ConnectionClosedSlot()
+2UnitLowTTLWarning(bool)
+2LostCommsLog(QString)
+2timeout()
+1TimerFired()
+Lost Comms Receiver Unit Already in Use
+void cLostCommsReceiverWorker::NewUDPConnectionSlot()
+..\CMNet2\QT\LostCommsReceiver.cpp
+basic_string::append
+Communication lost to unit - 
+void cLostCommsReceiverWorker::LogLostComms()
+TTL Log - mTimeToLive:%1
+TTL Log - Warning mTimeToLive:%1
+TTL Log - Recovered mTimeToLive:%1
+TTL Log - Lost Comms mTimeToLive:%1
+2NewUDPConnectionSignal()
+1NewUDPConnectionSlot()
+2ConnectionClosedSignal()
+1ConnectionClosedSlot()
+2timeout()
+1TimerFired()
+Lost Comms Sender already active
+void cLostCommsSenderWorker::NewUDPConnectionSlot()
+..\CMNet2\QT\LostCommsSender.cpp
+basic_string::_M_construct null not valid
+2CallDisconnect()
+1Disconnect()
+Network Connection access after destruction
+static cNetworkConnection* cNetworkConnection::Instance()
+..\CMNet2\QT\NetworkConnection.cpp
+Attempting to create instance on non-main thread
+Must be called on main thread
+void cNetworkConnection::InitialiseLostComms()
+Inconsistent state
+2UnitLowTTLWarning(bool)
+2LostCommsLog(QString)
+Sender Present
+Sender Null
+Reciever Present
+Reciever Null
+void cNetworkConnection::UninitialiseLostComms()
+Inconsistent state: %s,  %s
+Connection is in use
+bool cNetworkConnection::AcquireConnection()
+2ConnectionThreadDisconnected()
+1ConnectionThreadHasDisconnected()
+Attempting to delete instance on non-main thread
+static void cNetworkConnection::DeleteInstance()
+2FinishedAttemptingConnection()
+1ClientThreadFinishedAttemptingConnectionSlot()
+Unexpected sender 0x%x, mPendingConnectionThread = 0x%x
+void cNetworkConnection::ClientThreadFinishedAttemptingConnectionSlot()
+Client Thread finished attempting connection NULL sender
+2readyRead()
+1Receive()
+%s Exception Caught! NumberOfBytesRxed:%lld
+void cTCPConnection::Receive()
+..\CMNet2\QT\TCPConnection.cpp
+Receive
+2readyRead()
+1ReadPendingDatagrams()
+default
+[0;31mERROR: 
+(
+file:///
+:
+) 
+[0m
+[1;33mTODO: 
+[0;32mTRACE: 
+Bad conversion to boolean for UBYTE with value 0x%X
+bool UBYTEToBool(UBYTE)
+..\CMNet2\SQ-Standards\Convert.cpp
+?@
+@
+@
+???y?P
+D??
+??
+&?
+$@???????>
+?0
+w,a
+??Q
+?
+?m
+??jp5?c???d?2??
+???y
+???????+L?
+?|?~
+-???
+??d
+?
+? ?jHq???A??}??
+???mQ???????V?l
+??kdz?b???e?O\
+?l
+cc=
+??
+?? n;^
+iL?A`?rqg???
+<G?
+K??
+?k?
+????5l??B????@????l?2u\?E?
+??Y=???0?&:
+?Q?Q??
+a?????!#??V????
+?????
+(
+?
+_??
+?$?
+??|o/
+LhX?
+a?=-f??A?v
+q?
+? ??*
+?????q
+??
+????3?????
+x4?
+??
+?
+?
+??
+j
+-=m
+?ld?
+\c??Qkkbal
+?0e?N
+b???
+l{?
+??
+?W?
+????eP??
+????|????
+?bI-?
+?|??eL??Xa?M?Q?:t
+???0??A??J???=m???????j?iC??n4F?g???`?s-
+D?
+3_L
+??|
+?<q
+P?A
+'
+?? 
+?%?hW??o 
+?f???a?
+??^???)"???????
+=?Y?
+?.;\???l?? ???????
+??
+???t9G???w??
+&?
+?
+?s
+c??;d?>jm
+?Zjz
+?
+???
+?'?
+??
+}D?
+???
+?h?
+??
+i]Wb??ge?q6l
+?
+knv
+???+??Zz?
+?J?go???????C??
+???`????~??????8R??O?g??gW???
+??K6?H?+
+?L
+??J
+6`z
+A??`?U?g???n1y?iF??a?
+?f???o%6?hR?w
+?
+G
+??
+"/&
+U?;??(
+???Z?+
+j?\????1??????,
+??[??d?&?c???ju
+?m
+?
+??6
+??g
+r
+W
+?J??
+z???+?{8
+?
+????
+??????|!??
+????B??????hn??
+?
+??[&???w?owG?
+?Z
+?pj
+??;
+f\
+??e?i?b???kaE?l
+x?
+???
+?T?
+N??
+9a&g??
+`?MGiI?wn>Jj???Z??f
+?@?;?7S???????
+??G???0
+???????0??S???$
+6???
+??)W?T?g?#.zf??Ja?
+h]?+o*7?
+???
+?
+?
+Z??
+-%X,
+%s Crash Pattern Found: %s
+void CheckPattern(UBYTE)
+..\CMNet2\Core\CMNetConnectionBase.cpp
+CheckPattern
+CMNET_NO_MESSAGE_BEING_RXED - Unexpected byte:0x%02X
+void cCMNetConnectionBase::DataReceived(UBYTE*, ULONG)
+Unknown MsgType:%d
+CMNET_UNKNOWN_MESSAGE_BEING_RXED Type:%d
+Unknown message %u bytes received
+Unknown state
+x???h???P???8???????
+Message too big for pools %lu
+sCMNetMessageList* cCMNetMessagePool::GetCMNetMessageList(ULONG)
+..\CMNet2\Core\CMNetMessPool.cpp
+Error allocating new message NewLength:%u
+uint32_t cCMNetMessage::SetLength(uint32_t)
+..\CMNet2\Core\CMNetMessage.cpp
+cCMNetObject
+cRecipientBase
+cRegistryRecipient
+Dest:%d
+basic_string::_M_construct null not valid
+cCMNetSystem::%s - PARAM_BASE_INIT Not implemented
+virtual void cCMNetSystem::EntrypointMessage(cCMNetMessage&, cCMNetObject*)
+..\CMNet2\Core\CMNetSystem.cpp
+EntrypointMessage
+cCMNetSystem::%s - PARAM_BASE_SHOW_RECALL Not implemented
+cCMNetSystem::%s - PARAM_BASE_SCENE_RECALL Not implemented
+cCMNetSystem::%s - PARAM_BASE_USER_LOGIN Not implemented
+4???
+???d???????
+???
+???????
+???
+???
+???
+???
+???????????
+???
+???
+???
+???
+???$???
+%s - Destination out of range %d
+void cCMNetSystem::SendLocalMessage(cCMNetMessage&, cCMNetObject*)
+SendLocalMessage
+cCMNetSystem::SendLocalMessage Unhandled Message.mType:%d
+????????g???????4???{???\???\???????g???????????g???????????????????????????????????????\???\???\???\???NV_UPDATE_POWERON
+NV_UPDATE_SHOW
+NV_UPDATE_SCENE
+NV_UPDATE_MIXERCONFIG
+NV_UPDATE ...Unexpected
+==========================================================================
+bool cCMNetSystem::RecallShow(const cScene*, bool)
+cCMNetSystem::RecallShow() INCOMPATIBLE SHOW VERSION!!!, SHOW NOT LOADED  
+%s CRC Fail!
+bool cCMNetSystem::RecallShow(const char*, bool)
+RecallShow
+Message Pools Full, Message->GetLength() = %d
+void cCMNetSystem::AddMessageToMessageBuffer(const cCMNetMessage&)
+DEST_REGISTRY
+DEST_MIXER_CONFIG
+DEST_SCENEMANAGER
+DEST_SCENEFILTER
+DEST_LIBRARYMANAGER
+DEST_SHOWMANAGER
+DEST_AUDIOSYNC
+DEST_MIXER
+DEST_SURFACE
+DEST_LAYER
+DEST_FADER
+DEST_ROUTER
+DEST_PREAMP
+DEST_PREMODEL
+DEST_HPF_LPF
+DEST_GATE
+DEST_INSERT
+DEST_PEQ
+DEST_GEQ
+DEST_COMP
+DEST_DELAY
+DEST_MONITOR
+DEST_AMM
+DEST_FX
+DEST_NAMECOLOUR
+DEST_SQUDRIVE_USB
+DEST_SQUDRIVE_HOST
+DEST_UTIL_FIRMWARE
+DEST_UTIL_FORMAT
+DEST_SQDRIVE_STEREO
+DEST_SQDRIVE_MULTITRACK
+DEST_MIDI
+DEST_SOFTKEY
+DEST_SOFTROTARY
+DEST_FOOTSWITCH
+DEST_USERS
+DEST_SURF_OPTS
+DEST_COPYPASTERESET
+DEST_OMNIPORTMANAGER
+DEST_DIAGNOSTICS
+DEST_CHANNEL_METERS_MANAGER
+DEST_PORTBPLUS
+DEST_MEMANAGER
+DEST_FEATURESEC
+DEST_TOOLBAR
+DEST_GUI
+DEST_NETWORK
+DEST_GANG_MANAGER
+DEST_DIGITALSOCKET
+DEST_USBDATASCENEMANAGER
+DEST_USBDATALIBRARYMANAGER
+DEST_USBDATASHOWMANAGER
+DEST_RTA
+DEST_ETHERNET
+DEST_SQCONTROL_SETUP
+DEST_SQCONTROL_SOFTKEYLEDMAN
+DEST_PROCSCREEN
+DEST_PROCOVERVIEW
+DEST_ROUTINGSCREEN
+DEST_ROUTINGOVERVIEW
+DEST_IOPATCHSCREEN
+DEST_METERSINPUTSSCREEN
+DEST_METERSFXSCREEN
+DEST_METERSMIXSCREEN
+DEST_FXSCREEN
+DEST_FXLIBRARYSCREEN
+DEST_PAFLSCREEN
+DEST_TALKBACKSCREEN
+DEST_SIGGENSCREEN
+DEST_AUDIOSYNCSCREEN
+DEST_SCENEMANAGERSCREEN
+DEST_CUELISTSCREEN
+DEST_STRIPASSIGNSCREEN
+DEST_UTILITYDIAGNOSTICSCREEN
+DEST_UTILITYUPGRADESCREEN
+DEST_UTILITYSTATUSSCREEN
+DEST_UTILITYMIDISCREEN
+DEST_USBSTEREOSCREEN
+DEST_USBMULTITRACKSCREEN
+DEST_USBDATASHOWSCREEN
+DEST_USBDATASCENESCREEN
+DEST_USBDATALIBRARYSCREEN
+DEST_SOFTKEYSCREEN
+DEST_SOFTROTARYSCREEN
+DEST_FOOTSWITCHSCREEN
+DEST_PROCESSINGLIBRARYSCREEN
+DEST_USBDATA_LIBSCREEN
+DEST_METERSSCREEN
+DEST_IPCH_SOURCESCREEN
+DEST_GLOBALFILTERSCREEN
+DEST_SHOWMANAGERSCREEN
+DEST_USERSETTINGSSCREEN
+DEST_USERCONFIGPERMISSIONSSCREEN
+DEST_USERPROCESSINGAUDIOPERMISSIONSSCREEN
+DEST_USERSURFACEROUTINGPERMISSIONSSCREEN
+DEST_USERLOGINSCREEN
+DEST_SETUPSURFACEPREFSSCREEN
+DEST_BUSCONFIGSCREEN
+DEST_INPUTSTEREOSCREEN
+DEST_MIXSTEREOSCREEN
+DEST_MIXERMODESCREEN
+DEST_SAFES_IP_SCREEN
+DEST_SAFES_FX_SCREEN
+DEST_SAFES_MIX_SCREEN
+DEST_CHANNEL_METERS_SCREEN
+DEST_HOMESCREEN
+DEST_AMMOVERVIEWSCREEN
+DEST_AMMINPUTASSIGNSCREEN
+DEST_AMMSETUPSCREEN
+DEST_NETWORKSCREEN
+DEST_SETUPIOPORTSCREEN
+DEST_SOCKETCONTROLSCREEN
+DEST_GANGINGSCREEN
+DEST_LOCKSCREEN
+DEST_RTASCREEN
+DEST_SYNCSCREEN
+DEST_METERSUSBSCREEN
+DEST_SQCONTROL_SCREEN
+DEST_SQC_SLOT_CONFIG_SCREEN
+DEST_FADERSSCREEN
+%s Scene->IsValid() -> false
+bool cCMNetSystem::RecallScene(const cScene*)
+RecallScene
+Invalid Scene
+%s Version Check Fail!
+Failed Version Check
+Ok
+cCMNetObject
+cRecipientBase
+Subclass needs to override cRecipientBase::%s
+virtual ULONG cRecipientBase::GetNVValueForParam(UWORD, UBYTE, UBYTE, const void**) const
+..\CMNet2\Core\Recipients\RecipientBase.cpp
+GetNVValueForParam
+virtual bool cRecipientBase::SetNVValueForParam(ULONG, UWORD, UBYTE, UBYTE, const void*)
+SetNVValueForParam
+%s Unexpected Length:%u
+bool cRecipientBase::DeserialiseParamChMixVal(cRecipientBase::sParamChMixVal&, cCMNetMessage&)
+DeserialiseParamChMixVal
+vector::_M_default_append
+cannot create std::deque larger than max_size()
+Null object
+void cRecipientBase::AddToInformList(cCMNetObject*, UBYTE, UWORD)
+void cRecipientBase::AddToAllChannelInformList(cCMNetObject*, UBYTE)
+Too many params %d
+cRecipientBase::cRecipientBase(cNVData*, size_t, size_t)
+void cRecipientBase::RemoveFromInformList(cCMNetObject*, UBYTE, UWORD)
+void cRecipientBase::RemoveFromAllChannelInformList(cCMNetObject*, UBYTE)
+ -- mInformList -- 
+p:%d c:%d addr:%p name %s
+ -- mAllChannelInformList -- 
+p:%d addr:%p name %s
+%s vTag:%u Val:%lu
+static void cStackValueHelper::FuncSelecta(ULONG)
+..\CMNet2\Core\StackValueHelper.cpp
+FuncSelecta
+ValueInStackException
+????"???)???3???=???G???Q???[???e???o???y???????????????????????static void cStackValueHelper::Func_0(ULONG)
+Func_0
+static void cStackValueHelper::Func_1(ULONG)
+Func_1
+static void cStackValueHelper::Func_2(ULONG)
+Func_2
+static void cStackValueHelper::Func_3(ULONG)
+Func_3
+static void cStackValueHelper::Func_4(ULONG)
+Func_4
+static void cStackValueHelper::Func_5(ULONG)
+Func_5
+static void cStackValueHelper::Func_6(ULONG)
+Func_6
+static void cStackValueHelper::Func_7(ULONG)
+Func_7
+static void cStackValueHelper::Func_8(ULONG)
+Func_8
+static void cStackValueHelper::Func_9(ULONG)
+Func_9
+static void cStackValueHelper::Func_A(ULONG)
+Func_A
+static void cStackValueHelper::Func_B(ULONG)
+Func_B
+static void cStackValueHelper::Func_C(ULONG)
+Func_C
+static void cStackValueHelper::Func_D(ULONG)
+Func_D
+static void cStackValueHelper::Func_E(ULONG)
+Func_E
+static void cStackValueHelper::Func_F(ULONG)
+Func_F
+cShowSyncDriver
+vector::_M_range_check: __n (which is %zu) >= this->size() (which is %zu)
+%s mTransitions.size() == ZERO! mSyncStateIndex:%d mSyncState:%d
+void cShowSyncDriver::NextTransition()
+..\SQu\Common\Shared\Drivers\ShowSyncDriver.cpp
+NextTransition
+State machine error
+%s Invalid state:%d for PARAM_SHOWMANAGER_REMOTE_SYNC_READY
+virtual void cShowSyncDriver::EntrypointMessage(cCMNetMessage&)
+EntrypointMessage
+vector::_M_realloc_insert
+%s STATE_FAIL
+void cShowSyncDriver::SyncCommonStateMachine(cShowSyncDriver::sSyncOperation&)
+SyncCommonStateMachine
+%s STATE_TIME_OUT
+%s STATE_ABORT
+????????????0???X???????????0???????????????@???????????`???
+cFileSyncDriver
+Ok
+Remote busy
+Remote key removed
+Current state CRC failure
+Scene CRC failure
+Library CRC failure
+Version failure
+Directory open error
+File create error
+File write error
+File open error
+File read error
+File seek error
+File delete error
+Library store error
+Scene store error
+Remote error: Unexpected result
+????????????????????
+???????
+???????(???8???H???X???h???x???????????????%s mSyncState != STATE_IDLE, mSyncState == %d
+virtual void cFileSyncDriver::Start()
+..\SQu\Common\Shared\Drivers\EditorSync\FileSyncDriver.cpp
+Start
+%s this:%p Unexpected param:%d in state:
+virtual void cFileSyncDriver::EntrypointMessage(cCMNetMessage&)
+EntrypointMessage
+%s SM_RESULT_NVDATA_CRC_FAIL Index:%d
+%s SM_RESULT_SCENE_CRC_FAIL Index:%d
+%s SM_RESULT_LIB_CRC_FAIL Index:%d
+%s SM_RESULT_VER_FAIL Index:%d
+%s Unhandled error:%d Index:%d
+%s::%s MSG_RESULT_OUT_OF_RANGE
+Error: Out of range
+%s::%s MSG_RESULT_CRC_ERROR
+Error: File CRC
+%s::%s MSG_RESULT_RETRY Retry limit %d exceeded at index %d
+Error: Retry count exceeded
+%s::%s MSG_RESULT_UNKNOWN_ERROR
+???????e???
+???????
+???
+???
+???
+???H???v???m???
+???????????????%s::%s STATE_FAIL
+void cFileSyncDriver::SyncStateMachine()
+SyncStateMachine
+%s::%s STATE_TIME_OUT
+%s::%s STATE_ABORT
+????????T???d???????????????Direct Out Source
+Post Preamp
+Post HPF
+Post Gate
+Post Insert Return
+Post PEQ
+Post Compressor
+Post Delay
+Channel Source
+Post Delay/AMM
+cSceneFilterDriverHolder::%s Invalid Driver Type
+void cSceneFilterDriverHolder::UpdateDriver(cQtSceneFilterDriverBase**, UWORD)
+..\SQu\SQApps\Common\Qt\DriverHolders\SceneFilterDriverHolder.cpp
+UpdateDriver
+cLibraryPullSyncDriver::%s Unexpected Message Length: %d
+virtual int cLibraryPullSyncDriver::Reply(bool, ULONG, cCMNetMessage&)
+..\SQu\Common\Qt\Drivers\EditorSync\LibraryPullSyncDriver.cpp
+Reply
+Library not found
+%s - %s @ %d
+basic_string::_M_construct null not valid
+cLibraryPullSyncDriver::%s SM_RESULT_SM_BUSY -> MSG_RESULT_RETRY eShowManagerResult:%d
+cLibraryPullSyncDriver::%s default -> MSG_RESULT_UNKNOWN_ERROR eShowManagerResult:%d
+Current state corrupt
+??
+??
+2stateChanged(int)
+1RefreshPropertiesForState(int)
+cScenePullSyncDriver
+basic_string::_M_construct null not valid
+%s::%s Unexpected Message size %d at index:%d
+virtual int cScenePullSyncDriver::Reply(bool, ULONG, cCMNetMessage&)
+..\SQu\Common\Qt\Drivers\EditorSync\ScenePullSyncDriver.cpp
+Reply
+%s(%d,&Message) out of range!
+virtual int cScenePushSyncDriver::Request(ULONG, cCMNetMessage&)
+..\SQu\Common\Qt\Drivers\EditorSync\ScenePushSyncDriver.cpp
+Request
+2mixerConfigChanged()
+1MixerConfigSlot()
+%s Override me!
+virtual void cLayerManagerBase::MixerConfigSlot()
+..\SQu\Common\Qt\Layers\LayerManagerBase.cpp
+MixerConfigSlot
+virtual int cLayerManagerBase::layerCount() const
+layerCount
+default
+WARNING - QQmlObjectListModel taking ownership!
+LayerIndex out of range %d
+bool cQtLayerManager::clearLayer(int, bool)
+..\SQu\Common\Qt\Layers\QtLayerManager.cpp
+bool cQtLayerManager::layerIsFull(int, bool)
+void cQtLayerManager::copyLayerToCustom(int, cCustomStripType*)
+Custom Strip index out of range %d
+void cQtLayerManager::renameCustomStrip(int, const QString&)
+default
+WARNING - QQmlObjectListModel taking ownership!
+bool cQtLayerManager::moveChannelInLayer(int, int, int, bool)
+bool cQtLayerManager::removeChannelFromLayer(int, int, bool)
+void cQtLayerManager::setCustomLayerToBank(int, cCustomStripType*)
+bool cQtLayerManager::replaceChannelInLayer(int, int, cChannel*, bool)
+bool cQtLayerManager::insertChannelIntoLayer(int, int, cChannel*, bool)
+1RoutingModelMembershipUpdateSlot()
+2countChanged()
+%s(%d,%d,%d,%d) Arg out of range! Expected Max Bank=%d Strip=%d
+void cQtLayerManager::ConfigureStrip(UBYTE, UBYTE, UBYTE, UBYTE)
+ConfigureStrip
+id
+index
+class
+model
+modelData
+display
+qtObject
+Can't have
+as a role name in QQmlObjectListModel<
+>
+Inputs
+Mix
+FX
+DCAs
+MIDI
+Mute Groups
+Soft Keys
+Custom 1
+Custom 2
+Custom 3
+Custom 4
+Custom 5
+Custom 6
+Layer A
+Layer B
+Layer C
+Layer D
+Layer E
+Layer F
+2mixChanged()
+1RoutingModelSelectedMixUpdateSlot()
+2settingsReset()
+1PersistentSettingsChangedSlot()
+2ConfigChanged()
+1ConfigureLayers()
+2LayerChanged(UBYTE)
+1ConfigureLayer(UBYTE)
+2RenameLayer(UBYTE,std::string)
+1RenameLayer(UBYTE,std::string)
+onItemPropertyChanged()
+2nameChanged()
+2buttonTextChanged()
+basic_string::_M_construct null not valid
+%s(%d) OUT_OF_RANGE
+int cShowManager::ShowNumberFromMenuIndex(int)
+..\SQu\SQApps\Common\Qt\Shows\QtShowManager.cpp
+ShowNumberFromMenuIndex
+Storing new show
+Overwriting show
+Recalling show
+SHOW\d{4}
+%s NVDATA.DAT not found!
+int cShowManager::GetCurrentStateFromFilePath(cScene&, QString)
+GetCurrentStateFromFilePath
+%s Sentinel or checksum error
+/
+SHOW%1
+Invalid path: %s
+int cShowManager::deleteShow(int)
+NVDATA.DAT
+%s Failed to save scene:%s
+void cShowManager::SaveCurrentStateToPath(QString)
+SaveCurrentStateToPath
+/SHOW.DAT
+%s(FileBytes,%s) FAILED
+static void cShowManager::LoadShowFileFromFile(QByteArray&, QString)
+LoadShowFileFromFile
+/NVDATA.DAT
+SHOW.DAT
+%s Failed to save show:%s
+static void cShowManager::SaveShowFileToFile(QString, QString)
+SaveShowFileToFile
+Current
+%s - Scene == nullptr
+void cShowManager::recallDefaultShow(int)
+recallDefaultShow
+%s - Failed with result:%d
+mWorkingShowsString: %s in invalid
+int cShowManager::overwriteShow(int)
+SHOW????
+WorkingShowsDirectory: %s in invalid
+int cShowManager::saveCurrentShowToWorkingFolder(QString)
+Shows MenuModel
+2isPullCompleteChanged()
+1ScenePullCompleteSlot()
+DefaultShowTypes MenuModel
+SQR.DAT
+SQ-R Template
+SQ5.DAT
+SQ-5 Template
+SQ6.DAT
+SQ-6 Template
+SQ7.DAT
+SQ-7 Template
+2RebuildShowsAtPath(QString, bool)
+1RebuildShowModelAtPath(QString, bool)
+2offlineBoxIDChanged()
+1UpdatePickerIndexForOfflineBoxIdSlot()
+2settingsReset()
+1PersistentSettingsChangedSlot()
+%s Cannot open path: %s
+int cShowManager::RenameShowFile(QString, QString)
+RenameShowFile
+Some: 
+scene
+, 
+library
+current-state
+ files failed to sync.
+. 
+Unexpected destination:%d
+void cQtAllOnOffDriver::OtherCMNetMessage(UBYTE, UBYTE*)
+..\SQu\SQApps\Common\Qt\Drivers\QtAllOnOffDriver.cpp
+Unexpected destination:%d
+void cQtFXPresetNameDriver::OtherCMNetMessage(UBYTE, UBYTE*)
+..\SQu\SQApps\Common\Qt\Drivers\QtFXPresetNameDriver.cpp
+2internalValueChanged(QString,bool)
+1setInternalValue(QString,bool)
+Output
+Input
+%s Unhandled %s eIOPatchSocketType (%d)
+static eRoutingType cQtIOPatchDriver::SocketRoutingTypeFromPatchSocketType(bool, cQtIOPatchDriver::eIOPatchSocketType)
+..\SQu\SQApps\Common\Qt\Drivers\QtIOPatchDriver.cpp
+SocketRoutingTypeFromPatchSocketType
+vector::_M_range_insert
+Unexpected destination:%d
+void cQtIOPatchDriver::OtherCMNetMessage(UBYTE, UBYTE*)
+SrcIndex %d out of range for ROUTING_TYP

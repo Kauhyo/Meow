@@ -1,0 +1,10 @@
+Command exited with code 0.
+
+Command output:
+
+Name        Length LastWriteTime      
+----        ------ -------------      
+cache              05/11/2026 13:18:11
+CurrentShow        05/11/2026 13:18:06
+
+

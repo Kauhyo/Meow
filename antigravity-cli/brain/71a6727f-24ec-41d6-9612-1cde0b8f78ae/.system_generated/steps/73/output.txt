@@ -1,0 +1,6 @@
+Command exited with code 0.
+
+Command output:
+Total text height: 2728,688 px, Total frames: 60 (2 s)
+Encoded 0s / 2s
+Done! Saved to C:\Users\brazi\.gemini\antigravity-cli\brain\71a6727f-24ec-41d6-9612-1cde0b8f78ae\scratch\test_orient.mp4

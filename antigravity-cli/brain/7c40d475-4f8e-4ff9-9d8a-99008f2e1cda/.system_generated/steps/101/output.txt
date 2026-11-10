@@ -1,0 +1,4 @@
+Command exited with code 0.
+
+Command output:
+Computed CRC: 0x679F0DCC | Expected in SQ5.DAT: 0xD0FD198F

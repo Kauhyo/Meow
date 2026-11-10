@@ -1,0 +1,5 @@
+Command exited with code 0.
+
+Command output:
+UTF-16BE char index: 1416039 (byte offset: 2832078)
+UTF-16LE char index: -1 (byte offset: -2)

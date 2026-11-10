@@ -1,0 +1,32 @@
+Command exited with code 0.
+
+Command output:
+
+Name                                  LastWriteTime      
+----                                  -------------      
+SQ-MixPad-1.6.1-Windows-Installer     05/11/2026 13:17:11
+AVS-Monitor.lnk                       21/10/2026 01:04:52
+Chataigne.lnk                         21/10/2026 02:21:21
+Dante Controller.lnk                  21/10/2026 14:02:36
+Dante Virtual Soundcard.lnk           21/10/2026 03:43:26
+Deezer.lnk                            25/10/2026 23:10:07
+desktop.ini                           20/10/2026 12:43:02
+Gemini.lnk                            23/10/2026 20:07:34
+LibreOffice Writer.lnk                23/10/2026 20:39:42
+M32-Edit.exe                          23/05/2025 11:31:30
+Obsidian.lnk                          20/10/2026 21:40:12
+Phobies.url                           23/10/2026 20:14:01
+PuTTY.lnk                             21/10/2026 03:32:43
+Radmin Viewer 3.lnk                   21/10/2026 02:39:19
+SlayTheSpire2.exe - Raccourci.lnk     25/10/2026 23:13:04
+SQ-MixPad-1.6.1-Windows-Installer.zip 05/11/2026 13:17:04
+Wireless Workbench.lnk                21/10/2026 02:39:30
+Bts                                   28/10/2026 18:44:48
+Chataigne                             21/10/2026 02:21:05
+Ma musique                            20/10/2026 12:41:16
+Mes images                            20/10/2026 12:41:16
+Mes vid�os                            20/10/2026 12:41:16
+desktop.ini                           20/10/2026 12:43:02
+desktop.ini                           20/10/2026 12:43:02
+
+

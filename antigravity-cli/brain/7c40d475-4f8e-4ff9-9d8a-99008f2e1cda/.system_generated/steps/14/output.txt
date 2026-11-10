@@ -1,0 +1,824 @@
+Command exited with code 0.
+
+Command output:
+
+FullName                                                                                                               
+--------                                                                                                               
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache                                         
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\CurrentShow                                   
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache                                
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qtpipelinecache-x86_64-little_endian-...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\005b137caec8e0a54fbecb329715...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\013fbce360223c59734feaaca59f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\014f6a95a5a522229f00a26bb01d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\026d8e708ba69e342ee0e48a6dab...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\03376c07ee363a3d1e6b4ab07837...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\04669c9bdd9651025d7932ddf086...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\04a0e78c8f485d8ae2319d96ef4d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\05de2881beb1719fd06ee0d5416a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0624193b0c05908390cb074afa99...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\06ac1cef6495cb8c5603074b0c7f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\08a64abc6a5c7fe4d86f490a55a3...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0a2b50a7bd9be8a0badf45321023...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0a90159916e58456b4945a2b363b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0c58a934cbab16f05702248e39a1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0c9c7a0fe6ddc28991789590af0c...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0f2e5d049cc085c8acead0b8d324...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0f925293c9e44f08914b995902d1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0f94c9a649bdc7208e1c03d8b2cc...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\0fc4cf7a21f3ad7360fa5e8bd4b5...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\112f54111e9f37b4962a19014e30...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1184ac4421a4c3c628eac26eb67f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\11ff2419d4e71d862134a612cf32...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\125400e8f1bd78c3ab5229025dde...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\13e0db51d91376645c3182363ba4...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\14b29d451c7a280ff467b8234d1f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\165ba8bd2c117b1dd399660dfc09...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\17252ed48547bec25b7cf74d8c4d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1810c4211a8b6a4270671a1b2b15...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\18b135ecd5ef89ac559b96769338...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\19460f2901f16512dec603fdd81e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1affbdf2d40843f6e67373eafe62...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1b5a443a5374685e764219f0f905...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1be8a4e49eacbc4662e2d0a9112b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1c4602a0ac9e8ad7283a3119aa12...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\1dc7bf0b9a330650131086d64a9d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\2123fe79e66a146cfbbc37cc18d0...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\21451893b6b422385cfa96efe947...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\217dce4b5df5d5e8a540fbca848a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\2585e692216999266ede2a3b6f0b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\26b954b77f730545691b1ac3ee23...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\2ad24658fb3b014b81896ea51c6e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\2b36c2874e15df01d1e96951d1d2...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\2f6b60fabb0e4c5058641358e1be...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\2fa2a6c8c2df56a7932cf8b7368b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\303ac4d5df21882e27611d3a0ee9...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\32cc74ffda65583e506e39b91d4f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\34400d03eba41cb87568f8dd5380...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\3466b538783a4f0e9e9b347dc2fa...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\351935eb194fbea75a4bebf55057...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\35ecf345c57d3c5ab6ce25320821...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\36ed919a8308696fd0f00ed50c8f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\3b258878585775f5df11ba02538b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\3c3eb6d4cb08328f9472bf6614e0...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\3c96f235c9631d7022485f4f3c46...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\3e1f2b5d3813e57f17fc37a98b06...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\3e2abff0c1107d468d399da694e8...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\401c0e04c52d8301234c11111845...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\40720327182aa055b3d7bfc6333b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\4112fdfc622d4c8ac67fd99f790b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\415e2e9609a7ad19be32013cd176...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\42562c2c687bab22b04783c4cd06...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\459d48d8a06519c67a9e36d9bad1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\45d154be0e6d62508ffbfdf53e66...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\4991df0917d30ea739f520e2e4f3...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\514c45e0be963181bee5070a1757...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\516add1f62d50e99475481d51c28...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\523cf1507766a4122cfc828daf46...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5245246251137eca9928778dc6e0...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\52706ae2c7e28a23b8480fe54271...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\52bbb34ba9f9c69a6296705652b6...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5493ae81ceb52252bb098cbd1d82...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\54f176e752d06cf2a9a8175c3cb5...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5516068e8c42e030b6316932e23d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\571bcc2cc929e9f68dad109c4f25...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5775e4ad60f34fb321bd7a46c5dd...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\58d17b9bd1fd03a55d01da78ac8e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\59226aa98f0c824547b2e4d807d1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\593c192a8dd7fecf501762eaa850...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5c5ea74e1ac02b6391beaa3d3551...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5cbe053e751d18729f8cbac3a554...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5cca1cea63ef9c8d61fe1b81dc91...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5d74f59787a2d1f58268a8973ef6...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5fb4d2f6892acad39d942d88719d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\5fde4a8fffe9f4cbbf67d153c32b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\607db19991518a929a72e8026137...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6128a525b028e3f00ea71f7c31c7...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\61ffdf305ae4d1c7f660c78bd83c...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6300b689fc028b4856fab32ceff4...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\63a51196ec6d5df0ebf3ab99077a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\662ab05c35d34b7e5a109e72cfd1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\663fd63f57c4ce87e48ccda98669...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\675a1e469cb7148e2e0fbdcb456c...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6af43935531e2d45b1eebcfd2ee2...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6b94b30460c0b0afb5b205372e7a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6c014cf8b6439a062e4f86de47d2...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6c2ca1684bd29859283a7b95e3e9...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6d4243422b5242e5cdfdcb63b29d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6e0615e7dba9783f1642548155fc...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6e28c952e491235143c34ed10dc8...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\6ffd60fc6695bdb1e2f9d13d881d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\72269fd19646b26a8f6a8da31ecc...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\73afb1acd6a2a97cd3a2f8e4f7b0...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\73c6ec190312b6939e649a183c43...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\75ae2ad5a06be1e57b7b7faf569f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7b680cff1a845ec9946ff967e9f9...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7b854c3422ffd7630ed1b9ff3dc3...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7bd7f0a28ea0b5fcc27d238a95a8...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7d0e426d34a3c0295b3fec28e9cd...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7d47685fefc3b23e51baaf01c64a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7e1c4fb2b87b011317d8e1130bb9...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\7ecc540475dcdd7c8d5adac4c7a6...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\8026d922a0a96d7fb1df093ecec5...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\81179f87b3da1e6d5424f8b556a8...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\821e31c9cba344971cdb7a05865a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\85d67f582c3c9d8a281f1308ba0f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\8607a78700f625723c0cd9a850cd...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\8856cb06b1cdc0cd9f24257e576a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\885fc34239528025deee6d25f9c7...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\8929e52f6bb0cfbfe113f19e694a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\8bb6744105f5c8c165536d8879f3...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\8bf8ed60baf8a6fed7bb9df397a6...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\90340bfdac093a7776d464800193...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\9080ac5ee1da94e08e140b16afec...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\9223137d454cc629fc73093f503d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\924536859e66adf0648d59bdb441...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\9331ad9159d5f9b38f2130f20152...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\9445f036dcc98bd6be00f959e000...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\946c7ff78af2c66f5752fae91379...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\95ff8552b498a192e1482f3955e6...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\965a7ec9ae455b39a29535974970...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\96b2ca8412394b5d4f41dbd80989...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\97652fd9ad441e118372f32e9c5e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\97d0100a842a8e6a00d1ead13a1f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\9df396ff8fc57ec83be2c5519c32...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\9df8d23a46f0ac77b991d8e37750...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a1cc78511ba01a379f1724e7d46a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a1f51440f7645e9f85c454860480...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a2d973c09d099fec3a5f6340bdbb...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a6bae380ec43df8e3fb891d87436...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a7266cab47a1952493908ec0af24...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a81d88a23f4d0e6da5763e2e07c0...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a9c9d830e936a851db7e14ee93d8...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\a9f6b024fa2f0d3a87dc89cf35b1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ab6576299ea3d18926e625e20510...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ab983a39f737e6998f2727bee5bc...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\abd0c69e4f2c72522dbc91112cf1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\adffa925a6947cd023d83ce6863a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ae5227cc9c3db22cf6529f110fbc...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\afee8e1d78e83f8f49c7c92f115e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b05207398634c4509d40aea9f986...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b1217c237add98de25144043fd02...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b146ad36b66395ce2e7e5375800e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b2235382fc4e6bb229ef55a9a530...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b3b388496c611a881e8cc31008fb...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b683ae082c194b5ecb8558edbe0b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b6f6bd41fa274ff52ec657237453...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\b9182c49bb036f21e541623e4717...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ba686e34f91b0f0484ecf10fcc74...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\bca3dd01c21c32064c5da5a604ca...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\be4efd3459138cda2b0abae38ef4...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\bea38c2784078fc10b1fd34eaf6e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\bf6011f13377653c5834a3c8300f...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c15c1755cf4409a743fe7309cb4d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c2a5ed73f483acf08853a5effe10...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c51d940d70a383c394e84c898052...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c70273bc09b882397210c5b38518...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c8420734cb6d994a57e9d7d39528...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c843f6c6ed9fb2b129dfbbd88164...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c84da8e439bd425f1b9ecaf7e113...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\c8c8deb755edfb732f8fa491d369...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\cba8f0da30bc8ec2cd646676e162...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\cc93dc7ed046b2c606eca2d47df0...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\cd9cec87545bb9363f48ebda2b0a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\cdc6c0b9839c2c13e22abf95dea7...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\cdfc8c38b7ae6c8b66bd838bb946...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ce439ed6fb661b7d2e6fb4b3f6db...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\cf4bd3ce9db465246b295f138111...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\d17a2f3b5021f969719885c1e1bb...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\d3aab417e9e0f874fc9d76b0a7be...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\d6b764f8c403e914b5e02c04c7f4...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\dafa4b5c42210f85ff9d1dc69691...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\de5902d0a8adb95ce73a49004841...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ded92317d5f7d934015deef3f4c1...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e06c2b5134e31477833de3a6af99...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e09dbe577284f9f00ba38872903e...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e1c76100d7e2e2510d9f740923cd...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e21eade2fd605acd2d03a421fc71...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e25522b13d09f4a63013ac2ad6a4...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e2960224b093fcb4ed6a8a714881...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e3e9c7e85ba817af3487787410e9...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e4f7c1a5cf54627b0cf302cfe1ff...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e618af13c7a4122b714d83670836...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e7875e10d6c9c42c4a69ee652b4d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e83a75d7e62fda9a430515039c96...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\e9133961d19e6d74809d0deaeaa9...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ea39047ab46a1457ce416b4230c8...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\eda7b37724be79a8a2404092d56b...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\f12f314f384b409fad843da46755...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\f19f559dff2481cdd0a755e109b7...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\f49b90487263bca91fc91856438a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\f5132628287996ca40b01220565a...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\f70c60ac5af4711ae6bcb8d2821d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\f952823fa868ad3f74fa24c6abc4...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\fa984915cc38748099599572378d...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\fb5d80ca3570a211b17203737ce6...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\fbe78e8b7c37d4c21a15c440f335...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\fe55ebd7a90a7107ee14e1760251...
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache\qmlcache\ffac29f88438275ef2b658b7797c...
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\generic                                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help                                                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\iconengines                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\imageformats                                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\networkinformation                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\platforms                                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml                                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\sqldrivers                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\styles                                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\tls                                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\D3Dcompiler_47.dll                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\libgcc_s_seh-1.dll                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\libstdc++-6.dll                                                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\libwinpthread-1.dll                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\opengl32sw.dll                                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Core.dll                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Gui.dll                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Network.dll                                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6OpenGL.dll                                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Qml.dll                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QmlLocalStorage.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QmlModels.dll                                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QmlWorkerScript.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QmlXmlListModel.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Quick.dll                                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickControls2.dll                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickControls2Impl.dll                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickDialogs2.dll                                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickDialogs2QuickImpl.dll                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickDialogs2Utils.dll                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickEffects.dll                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickLayouts.dll                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickParticles.dll                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickShapes.dll                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6QuickTemplates2.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Sql.dll                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6StateMachine.dll                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6StateMachineQml.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Svg.dll                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\Qt6Widgets.dll                                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\SQ MixPad.exe                                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\unins000.dat                                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\unins000.exe                                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\unins000.msg                                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\generic\qtuiotouchplugin.dll                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\1.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\10.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\11.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\12.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\13.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\14.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\15.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\16.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\17.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\18.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\19.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\2.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\20.png                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\3.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\4.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\5.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\6.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\7.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\8.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\9.png                                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\Connection_Help.html                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\fineAdjust.png                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\offlineMenuTree.png                                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\onlineMenuTree.png                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\overview.png                                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\overview_noLabel.png                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\help\workingDirectory.png                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\iconengines\qsvgicon.dll                                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\imageformats\qgif.dll                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\imageformats\qico.dll                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\imageformats\qjpeg.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\imageformats\qsvg.dll                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\networkinformation\qnetworklistmanager.dll                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\platforms\qwindows.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\Qt                                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml                                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\Qt\labs                                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\Qt\labs\platform                                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\Qt\labs\platform\plugins.qmltypes                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\Qt\labs\platform\qmldir                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\Qt\labs\platform\qtlabsplatformplugin.dll                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Base                                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Models                                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\StateMachine                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\WorkerScript                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\XmlListModel                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\qmldir                                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\qmlmetaplugin.dll                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Base\plugins.qmltypes                                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Base\qmldir                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Base\qmlplugin.dll                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Models\modelsplugin.dll                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Models\plugins.qmltypes                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\Models\qmldir                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\StateMachine\plugins.qmltypes                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\StateMachine\qmldir                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\StateMachine\qtqmlstatemachineplugin.dll                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\WorkerScript\plugins.qmltypes                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\WorkerScript\qmldir                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\WorkerScript\workerscriptplugin.dll                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\XmlListModel\plugins.qmltypes                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\XmlListModel\qmldir                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQml\XmlListModel\qmlxmllistmodelplugin.dll                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls                                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Effects                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Layouts                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\LocalStorage                                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Particles                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Shapes                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Templates                                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling                                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Window                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\plugins.qmltypes                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\qmldir                                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\qtquick2plugin.dll                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\impl                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\plugins.qmltypes                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\qmldir                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\qtquickcontrols2plugin.dll                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\impl                                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\AbstractButton.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Action.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ActionGroup.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ApplicationWindow.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\BusyIndicator.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Button.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ButtonGroup.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Calendar.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\CalendarModel.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\CheckBox.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\CheckDelegate.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ComboBox.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Container.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Control.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\DayOfWeekRow.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\DelayButton.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Dial.qml                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Dialog.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\DialogButtonBox.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Drawer.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Frame.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\GroupBox.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\HorizontalHeaderView.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ItemDelegate.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Label.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Menu.qml                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\MenuBar.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\MenuBarItem.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\MenuItem.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\MenuSeparator.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\MonthGrid.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Page.qml                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\PageIndicator.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Pane.qml                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\plugins.qmltypes                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Popup.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ProgressBar.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\qmldir                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\qtquickcontrols2basicstyleplugin.dll         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\RadioButton.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\RadioDelegate.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\RangeSlider.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\RoundButton.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ScrollBar.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ScrollIndicator.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ScrollView.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\SelectionRectangle.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Slider.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\SpinBox.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\SplitView.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\StackView.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\SwipeDelegate.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\SwipeView.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Switch.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\SwitchDelegate.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\TabBar.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\TabButton.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\TextArea.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\TextField.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ToolBar.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ToolButton.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ToolSeparator.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\ToolTip.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\TreeViewDelegate.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\Tumbler.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\VerticalHeaderView.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\WeekNumberColumn.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\impl\plugins.qmltypes                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\impl\qmldir                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Basic\impl\qtquickcontrols2basicstyleimplplugin.dll
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ApplicationWindow.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\BusyIndicator.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Button.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\CheckBox.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\CheckDelegate.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ComboBox.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\DelayButton.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Dial.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Dialog.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\DialogButtonBox.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Drawer.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Frame.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\GroupBox.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\HorizontalHeaderView.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ItemDelegate.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Label.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Menu.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\MenuBar.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\MenuBarItem.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\MenuItem.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\MenuSeparator.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Page.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\PageIndicator.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Pane.qml                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\plugins.qmltypes                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Popup.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ProgressBar.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\qmldir                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\qtquickcontrols2fusionstyleplugin.dll       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\RadioButton.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\RadioDelegate.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\RangeSlider.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\RoundButton.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ScrollBar.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ScrollIndicator.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ScrollView.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\SelectionRectangle.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Slider.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\SpinBox.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\SplitView.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\SwipeDelegate.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Switch.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\SwitchDelegate.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\TabBar.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\TabButton.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\TextArea.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\TextField.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ToolBar.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ToolButton.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ToolSeparator.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\ToolTip.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\TreeViewDelegate.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\Tumbler.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\VerticalHeaderView.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\ButtonPanel.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\CheckIndicator.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\plugins.qmltypes                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\qmldir                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\qtquickcontrols2fusionstyleimplplugi...
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\RadioIndicator.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\SliderGroove.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\SliderHandle.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Fusion\impl\SwitchIndicator.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\impl                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ApplicationWindow.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\BusyIndicator.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Button.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\CheckBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\CheckDelegate.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ComboBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\DelayButton.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Dial.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Dialog.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\DialogButtonBox.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Drawer.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Frame.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\GroupBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\HorizontalHeaderView.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ItemDelegate.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Label.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Menu.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\MenuItem.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\MenuSeparator.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Page.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\PageIndicator.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Pane.qml                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\plugins.qmltypes                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Popup.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ProgressBar.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\qmldir                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\qtquickcontrols2imaginestyleplugin.dll     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\RadioButton.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\RadioDelegate.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\RangeSlider.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\RoundButton.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ScrollBar.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ScrollIndicator.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ScrollView.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\SelectionRectangle.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Slider.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\SpinBox.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\SplitView.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\StackView.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\SwipeDelegate.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\SwipeView.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Switch.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\SwitchDelegate.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\TabBar.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\TabButton.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\TextArea.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\TextField.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ToolBar.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ToolButton.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ToolSeparator.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\ToolTip.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\Tumbler.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\VerticalHeaderView.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\impl\OpacityMask.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\impl\qmldir                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\impl\qtquickcontrols2imaginestyleimplplu...
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Imagine\impl\qtquickcontrols2imaginestyleimplplu...
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\impl\plugins.qmltypes                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\impl\qmldir                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\impl\qtquickcontrols2implplugin.dll                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl                                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ApplicationWindow.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\BusyIndicator.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Button.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\CheckBox.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\CheckDelegate.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ComboBox.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\DelayButton.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Dial.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Dialog.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\DialogButtonBox.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Drawer.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Frame.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\GroupBox.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\HorizontalHeaderView.qml                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ItemDelegate.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Label.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Menu.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\MenuBar.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\MenuBarItem.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\MenuItem.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\MenuSeparator.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Page.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\PageIndicator.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Pane.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\plugins.qmltypes                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Popup.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ProgressBar.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\qmldir                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\qtquickcontrols2materialstyleplugin.dll   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\RadioButton.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\RadioDelegate.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\RangeSlider.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\RoundButton.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ScrollBar.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ScrollIndicator.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ScrollView.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\SelectionRectangle.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Slider.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\SpinBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\SplitView.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\StackView.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\SwipeDelegate.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\SwipeView.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Switch.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\SwitchDelegate.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\TabBar.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\TabButton.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\TextArea.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\TextField.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ToolBar.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ToolButton.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ToolSeparator.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\ToolTip.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\TreeViewDelegate.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\Tumbler.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\VerticalHeaderView.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\BoxShadow.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\CheckIndicator.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\CursorDelegate.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\ElevationEffect.qml                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\plugins.qmltypes                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\qmldir                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\qtquickcontrols2materialstyleimplp...
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\RadioIndicator.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\RectangularGlow.qml                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\RoundedElevationEffect.qml           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\SliderHandle.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Material\impl\SwitchIndicator.qml                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ApplicationWindow.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\BusyIndicator.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Button.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\CheckBox.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\CheckDelegate.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ComboBox.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\DelayButton.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Dial.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Dialog.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\DialogButtonBox.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Drawer.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Frame.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\GroupBox.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\HorizontalHeaderView.qml                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ItemDelegate.qml                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Label.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Menu.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\MenuBar.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\MenuBarItem.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\MenuItem.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\MenuSeparator.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Page.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\PageIndicator.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Pane.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\plugins.qmltypes                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Popup.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ProgressBar.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\qmldir                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\qtquickcontrols2universalstyleplugin.dll 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\RadioButton.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\RadioDelegate.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\RangeSlider.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\RoundButton.qml                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ScrollBar.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ScrollIndicator.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ScrollView.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\SelectionRectangle.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Slider.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\SpinBox.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\SplitView.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\StackView.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\SwipeDelegate.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Switch.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\SwitchDelegate.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\TabBar.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\TabButton.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\TextArea.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\TextField.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ToolBar.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ToolButton.qml                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ToolSeparator.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\ToolTip.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\Tumbler.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\VerticalHeaderView.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl\CheckIndicator.qml                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl\plugins.qmltypes                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl\qmldir                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl\qtquickcontrols2universalstyleimp...
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl\RadioIndicator.qml                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Universal\impl\SwitchIndicator.qml                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\Button.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\CheckBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\ComboBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\Frame.qml                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\GroupBox.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\plugins.qmltypes                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\ProgressBar.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\qmldir                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\qtquickcontrols2windowsstyleplugin.dll     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\RadioButton.qml                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\ScrollBar.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\ScrollView.qml                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\SelectionRectangle.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\Slider.qml                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\SpinBox.qml                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\TextArea.qml                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Controls\Windows\TextField.qml                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\plugins.qmltypes                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\qmldir                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\qtquickdialogsplugin.dll                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\plugins.qmltypes                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qmldir                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qtquickdialogs2quickimplplugin.dll        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\ColorDialog.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\ColorInputs.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FileDialog.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FileDialogDelegate.qml                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FileDialogDelegateLabel.qml           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FolderBreadcrumbBar.qml               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FolderDialog.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FolderDialogDelegate.qml              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FolderDialogDelegateLabel.qml         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FontDialog.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\FontDialogContent.qml                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\HueGradient.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\MessageDialog.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\PickerHandle.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\SaturationLightnessPicker.qml         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\ColorDialog.qml               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\FileDialog.qml                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\FileDialogDelegate.qml        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\FolderBreadcrumbBar.qml       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\FolderDialog.qml              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\FolderDialogDelegate.qml      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\FontDialog.qml                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Fusion\MessageDialog.qml             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\ColorDialog.qml              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\FileDialog.qml               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\FileDialogDelegate.qml       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\FolderBreadcrumbBar.qml      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\FolderDialog.qml             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\FolderDialogDelegate.qml     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\FontDialog.qml               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Imagine\MessageDialog.qml            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\ColorDialog.qml             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\FileDialog.qml              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\FileDialogDelegate.qml      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\FolderBreadcrumbBar.qml     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\FolderDialog.qml            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\FolderDialogDelegate.qml    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\FontDialog.qml              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Material\MessageDialog.qml           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\ColorDialog.qml            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\FileDialog.qml             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\FileDialogDelegate.qml     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\FolderBreadcrumbBar.qml    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\FolderDialog.qml           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\FolderDialogDelegate.qml   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\FontDialog.qml             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Dialogs\quickimpl\qml\+Universal\MessageDialog.qml          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Effects\effectsplugin.dll                                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Effects\plugins.qmltypes                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Effects\qmldir                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Layouts\plugins.qmltypes                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Layouts\qmldir                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Layouts\qquicklayoutsplugin.dll                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\LocalStorage\plugins.qmltypes                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\LocalStorage\qmldir                                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\LocalStorage\qmllocalstorageplugin.dll                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\plugins.qmltypes                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\qmldir                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\qtquickcontrols2nativestyleplugin.dll           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultButton.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultCheckBox.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultComboBox.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultDial.qml                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultFrame.qml                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultGroupBox.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultProgressBar.qml                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultRadioButton.qml                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultScrollBar.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultSlider.qml                      
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultSpinBox.qml                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultTextArea.qml                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultTextField.qml                   
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\NativeStyle\controls\DefaultTreeViewDelegate.qml            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Particles\particlesplugin.dll                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Particles\plugins.qmltypes                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Particles\qmldir                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Shapes\plugins.qmltypes                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Shapes\qmldir                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Shapes\qmlshapesplugin.dll                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Templates\plugins.qmltypes                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Templates\qmldir                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Templates\qtquicktemplates2plugin.dll                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Component.qml                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Enum.qml                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Member.qml                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Method.qml                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Module.qml                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Parameter.qml                                       
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Property.qml                                        
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\qmldir                                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\quicktooling.qmltypes                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\quicktoolingplugin.dll                              
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\tooling\Signal.qml                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Window\qmldir                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Window\quickwindow.qmltypes                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qml\QtQuick\Window\quickwindowplugin.dll                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_debugger.dll                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_inspector.dll                                         
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_local.dll                                             
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_messages.dll                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_native.dll                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_nativedebugger.dll                                    
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_preview.dll                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_profiler.dll                                          
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_quickprofiler.dll                                     
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_server.dll                                            
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\qmltooling\qmldbg_tcp.dll                                               
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\sqldrivers\qsqlite.dll                                                  
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\sqldrivers\qsqlodbc.dll                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\sqldrivers\qsqlpsql.dll                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\styles\qwindowsvistastyle.dll                                           
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\tls\qcertonlybackend.dll                                                
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\tls\qopensslbackend.dll                                                 
+C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\tls\qschannelbackend.dll                                                
+
+

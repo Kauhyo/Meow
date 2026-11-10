@@ -1,0 +1,59 @@
+Command exited with code 0.
+
+Command output:
+`.data
+%s pLibrary == nullptr Type:%d Channel:%d Name:%s
+static bool cLibraryManagerResponder::StoreLibraryFromChannel(cLibrary*, eLibraryType, u8, const cha
+..\SQu\Common\Shared\Responders\LibraryManagerResponder.cpp
+StoreLibraryFromChannel
+Unhandled library type!
+static bool cLibraryManagerResponder::StoreLibraryName(cLibrary*, const char*)
+StoreLibraryName
+%s(%p,%s) - Invalid library
+void cLibraryManagerResponder::RecallLibrary(const sLibrary*, u8)
+%s Calling invalid library!
+void cLibraryManagerResponder::HandleRecallMessage(cCMNetMessage&, std::function<cLibrary*(long long
+*ZN24cLibraryManagerResponder17EntrypointMessageER13cCMNetMessageEUlyE_
+*ZN24cLibraryManagerResponder17EntrypointMessageER13cCMNetMessageEUlyE0_
+*ZN24cLibraryManagerResponder17EntrypointMessageER13cCMNetMessageEUlyE1_
+/CurrentShow
+/LIBRARY
+/SCENES
+/SHOWS
+CurrentShow
+SHOWS
+LIB???.DAT
+SCENE???.DAT
+ScenesModel
+Unexpected PARAM_LIBRARYMANAGER_LIBCACHE_PULL_REPLY DiscoveryState():%d
+Unexpected PARAM_LIBRARYMANAGER_FACTORYLIB_PROC_PULL_REPLY DiscoveryState():%d
+Unexpected PARAM_LIBRARYMANAGER_FACTORYLIB_FX_PULL_REPLY DiscoveryState():%d
+SQ7.DAT
+SQR.DAT
+SQ5.DAT
+SQ6.DAT
+2SceneSyncCompleteSignal()
+Library cache pull timed out
+Processing library cache pull timed out
+Fx library cache pull timed out
+Input Patch/Library
+Library Recall
+Library Store
+Library Modify
+..\SQu\SQApps\Common\Qt\Scenes\QtSceneManager.cpp
+SCENE%1.DAT
+SCENE\d{3}.DAT
+void cSceneManager::DeleteAllScenesAtPath(QString)
+2RebuildScenesAtPath(QString, bool)
+Failed to save scene to file. Exceeded Maximum Scenes.
+static void cLibrary::SerialiseData(const uLibrary*, UBYTE*, eLibraryType)
+..\SQu\SQApps\Common\CMNet2\Core\Library.cpp
+??%s Msg:%s sLibrary->Type:%d
+static void cLibrary::Serialise(const sLibrary*, UBYTE*)
+static void cLibrary::DeserialiseData(const UBYTE*, uLibrary*, eLibraryType)
+static void cLibrary::DeserialiseProcessing(const UBYTE*, sNVChannel*, eLibraryType)
+CalcLibraryCRC: pBuf is nullptr
+static u32 cLibrary::CalcLibraryCRC(const UBYTE*)
+Library contains invalid checksum: 0x
+Incompatible library version:
+Library Type:

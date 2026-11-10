@@ -1,0 +1,8 @@
+Command exited with code 0.
+
+Command output:
+Name offset entry at 2832072 : len=7 hash=0x000000C4
+Offset 2832032 : 'SQR.DAT'
+Offset 2832052 : 'SQ7.DAT'
+Offset 2832072 : 'SQ5.DAT'
+Offset 2832092 : 'SQ6.DAT'

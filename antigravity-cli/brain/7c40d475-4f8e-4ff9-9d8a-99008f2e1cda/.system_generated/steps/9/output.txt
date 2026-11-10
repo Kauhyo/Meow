@@ -1,0 +1,10 @@
+Command exited with code 0.
+
+Command output:
+
+FullName                                                    
+--------                                                    
+C:\Users\brazi\Desktop\SQ-MixPad-1.6.1-Windows-Installer    
+C:\Users\brazi\Desktop\SQ-MixPad-1.6.1-Windows-Installer.zip
+
+

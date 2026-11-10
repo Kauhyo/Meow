@@ -1,0 +1,23 @@
+Command exited with code 1.
+
+Command output:
+Au caract�re Ligne:2 : 41
++ $bytes = [System.IO.File]::ReadAllBytes(C:\Program Files\Allen & Heat ...
++                                         ~
+Parenth�se fermante �)� manquante dans l'appel de m�thode.
+Au caract�re Ligne:2 : 41
++ $bytes = [System.IO.File]::ReadAllBytes(C:\Program Files\Allen & Heat ...
++                                         ~~~~~~~~~~
+Jeton inattendu �C:\Program� dans l'expression ou l'instruction.
+Au caract�re Ligne:2 : 64
++ ... tes = [System.IO.File]::ReadAllBytes(C:\Program Files\Allen & Heath\S ...
++                                                                 ~
+Le caract�re perlu�te (&) n'est pas autoris�. L'op�rateur & est r�serv� � une utilisation future. Placez un caract�re 
+perlu�te entre guillemets doubles ("&") pour que ce symbole soit consid�r� comme une cha�ne.
+Au caract�re Ligne:2 : 101
++ ... llBytes(C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\SQ MixPad.exe)
++                                                                         ~
+Jeton inattendu �)� dans l'expression ou l'instruction.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingEndParenthesisInMethodCall
+ 

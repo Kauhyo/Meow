@@ -1,0 +1,37 @@
+Command exited with code 0.
+
+Command output:
+C:\jeux\Slay-the-Spire-2-SteamRIP.com\Slay the Spire 2
+[Main]
+RealAppId=2868840
+FakeAppId=480
+
+#Language=english
+BuildId=0
+InstallDir=
+UnlockAllDLC=false
+
+
+[Misc]
+ExtraProtection=false
+PhotonIntegration=false
+EmulateTicket=false
+
+
+[Interfaces]
+Apps=true
+User=true
+Utils=true
+Storage=true
+UserStats=true
+Friends=true
+UGC=true
+Inventory=true
+AppTicket=true
+
+
+[Hashes]
+0=181dccf8c0b6dbc090004868c3bb7939e23ab786ad64a2462d9c326310df572273723a5f8742fbc6a9ccb5d81fad07ecfbb0ded7a94fe1c3d209a3a18ace0ac9
+1=8a763f9d9925e3f9684f40c5965277e7af76ca095ac395ddcc1ace60e96b947019862ce4249cbca7bc228aecab8ffea300f8c7e03d61b987dc3b759de4bc7282
+1337=c0d0de14d2ffe375a0c7efd2917c52159d48281b9d4257e00d58a57aea06cf9a0dbaf68c53c380a9ee793ed123cbf0d1b0d29a981491e8352f80e580011130d0
+C:\Users\Public\Documents\OnlineFix

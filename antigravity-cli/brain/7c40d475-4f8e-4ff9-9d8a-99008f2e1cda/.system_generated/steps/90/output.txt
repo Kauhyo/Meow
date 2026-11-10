@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+String 'CalcSceneCRC: pBuf is nullptr' at Raw=0x28C58A RVA=0x28DF8A
+  Ref at Raw=0x0E0990 (RVA=0x0E1590)
+  Ref at Raw=0x0E0A14 (RVA=0x0E1614)
+  Ref at Raw=0x0E1364 (RVA=0x0E1F64)
+String '/SHOW.DAT' at Raw=0x290BFA RVA=0x2925FA
+  Ref at Raw=0x10BF4D (RVA=0x10CB4D)
+  Ref at Raw=0x1107E2 (RVA=0x1113E2)
+String 'SaveShowFileToFile' at Raw=0x290CCA RVA=0x2926CA
+String 'recallDefaultShow' at Raw=0x290D33 RVA=0x292733
+String 'saveCurrentShowToWorkingFolder' at Raw=0x290E0A RVA=0x29280A

@@ -1,0 +1,23 @@
+Command exited with code 0.
+
+Command output:
+1. Enregistrement des nouveaux souvenirs, r�gles et conversations locales...
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/chunks/transcript/00000000.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/chunks/transcript_full/00000000.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/transcript.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/logs/transcript_full.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'sync.ps1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/67/output.txt', LF will be replaced by CRLF the next time Git touches it
+[main c7b99ed] Sync mÃ©moire Antigravity (2026-10-23 17:06)
+ 7 files changed, 46 insertions(+), 11 deletions(-)
+ create mode 100644 antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/67/output.txt
+ create mode 100644 antigravity-cli/brain/2c820d8a-863a-4990-9fd5-f0386ee738be/.system_generated/steps/69/output.txt
+2. RǸcupǸration des changements distants (git pull)...
+From https://github.com/Kauhyo/Meow
+ * branch            main       -> FETCH_HEAD
+Current branch main is up to date.
+3. Envoi vers GitHub (git push)...
+To https://github.com/Kauhyo/Meow.git
+   8569fa6..c7b99ed  main -> main
+branch 'main' set up to track 'origin/main'.
+Synchronisation terminǸe avec succ�s !

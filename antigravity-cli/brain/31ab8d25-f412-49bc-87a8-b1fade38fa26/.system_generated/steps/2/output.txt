@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+Desktop: C:\Users\brazi\Desktop
+--- AppData Roaming / Local / LocalLow ---
+
+--- Steam Libraries ---
+FullName                                    
+--------                                    
+C:\Users\brazi\AppData\Roaming\SlayTheSpire2
+                                            
+
+

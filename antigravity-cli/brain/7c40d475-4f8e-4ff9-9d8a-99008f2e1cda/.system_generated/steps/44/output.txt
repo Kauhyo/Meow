@@ -1,0 +1,42 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\cache (1)
+C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\CurrentShow (1)
+SQ5.DAT
+CalcSceneCRC: pBuf is nullptr
+static u32 cScene::CalcSceneCRC(const UBYTE*)
+DEST_SHOWMANAGER
+DEST_USBDATASHOWMANAGER
+DEST_SHOWMANAGERSCREEN
+%s Invalid state:%d for PARAM_SHOWMANAGER_REMOTE_SYNC_READY
+cLibraryPullSyncDriver::%s SM_RESULT_SM_BUSY -> MSG_RESULT_RETRY eShowManagerResult:%d
+cLibraryPullSyncDriver::%s default -> MSG_RESULT_UNKNOWN_ERROR eShowManagerResult:%d
+int cShowManager::ShowNumberFromMenuIndex(int)
+..\SQu\SQApps\Common\Qt\Shows\QtShowManager.cpp
+%s NVDATA.DAT not found!
+int cShowManager::GetCurrentStateFromFilePath(cScene&, QString)
+int cShowManager::deleteShow(int)
+NVDATA.DAT
+void cShowManager::SaveCurrentStateToPath(QString)
+static void cShowManager::LoadShowFileFromFile(QByteArray&, QString)
+LoadShowFileFromFile
+/NVDATA.DAT
+static void cShowManager::SaveShowFileToFile(QString, QString)
+SaveShowFileToFile
+void cShowManager::recallDefaultShow(int)
+int cShowManager::overwriteShow(int)
+int cShowManager::saveCurrentShowToWorkingFolder(QString)
+int cShowManager::RenameShowFile(QString, QString)
+Cannot instantiate ShowManager objects from qml
+ShowManager
+    target: ConnectionInterface.showManager
+      if(ConnectionInterface.showManager.busy)
+cShowManager
+cQtShowManagerDriver
+showManager
+cShowManager*
+QQmlListProperty<cShowManager>
+12cShowManager
+20cQtShowManagerDriver
+21cShowManagerRecipient

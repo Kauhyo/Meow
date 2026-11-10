@@ -1,0 +1,10 @@
+Command exited with code 1.
+
+Command output:
+Type [PeFinder] introuvable.
+Au caract�re Ligne:1 : 1
++ [PeFinder]::FindRefs("C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\ ...
++ ~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation : (PeFinder:TypeName) [], RuntimeException
+    + FullyQualifiedErrorId : TypeNotFound
+ 

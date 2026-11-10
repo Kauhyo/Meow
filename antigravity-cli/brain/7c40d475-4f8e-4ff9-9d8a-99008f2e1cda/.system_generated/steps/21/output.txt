@@ -1,0 +1,21 @@
+Command exited with code 0.
+
+Command output:
+--- CurrentShow ---
+--- Process ---
+
+
+Id              : 13644
+ProcessName     : SQ MixPad
+MainWindowTitle : 
+Path            : C:\Program Files\Allen & Heath\SQ MixPad 1.6.1\SQ MixPad.exe
+
+
+
+--- Network Listeners ---
+
+LocalAddress LocalPort
+------------ ---------
+172.20.10.9      64834
+
+

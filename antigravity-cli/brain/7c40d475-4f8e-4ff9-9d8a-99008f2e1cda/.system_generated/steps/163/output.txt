@@ -1,0 +1,5 @@
+Command exited with code 0.
+
+Command output:
+Wrote SHOW.DAT & NVDATA.DAT (CRC=0x3882471B) to: C:\Users\brazi\Desktop\AHSQ\SHOWS\SHOW0000
+Wrote SHOW.DAT & NVDATA.DAT (CRC=0x3882471B) to: C:\Users\brazi\AppData\Local\Allen & Heath\SQ-MixPad V1.6.1 - Rev. 92418\CurrentShow

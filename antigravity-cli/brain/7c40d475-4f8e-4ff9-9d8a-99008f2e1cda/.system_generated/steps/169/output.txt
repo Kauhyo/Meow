@@ -1,0 +1,33 @@
+Command exited with code 0.
+
+Command output:
+RemoveDirectory
+WorkingShowDir
+Directory
+1WorkingDirModifiedSlot
+DirectOutFxModel
+DirectOutNoFxModel
+Direct
+DirectOut
+2isDirtyChanged
+Dir
+GetSceneDirsAndNames
+cQtWorkingFSManager
+sWorkingFSEntry
+Working
+copyLocalToWorking
+IPDirect
+mWorkingShowsString
+WorkingShowsDirectory
+saveCurrentShowToWorkingFolder
+1SetGeometryDirty
+1SetHeightDirty
+QtWorkingFSManager
+GetLibDirsAndNames
+overwriteWorking
+deleteWorking
+SpiderDirectory
+ZipDirectory
+markDirty
+DirectoryChangedSlot
+compareDirectoryName

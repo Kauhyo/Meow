@@ -1,0 +1,6 @@
+Command exited with code 0.
+
+Command output:
+Found 'UnitsHelper.cpp' at Raw=0x270C98 RVA=0x272698
+  Ref at Raw=0x059DBF (RVA=0x05A9BF)
+  Ref at Raw=0x05B5FC (RVA=0x05C1FC)
